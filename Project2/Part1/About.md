@@ -1,0 +1,3 @@
+#About
+
+For the first part of project 2, we had to create entities and Entity-Relation Diagram from the descriptions and requirements provided to us. 
