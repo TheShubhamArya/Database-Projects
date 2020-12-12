@@ -1,0 +1,2 @@
+#Car Rental Database
+This part of the project required us to perform creating and loading the tables with the data provided to us. We had to perform these functions based on our part 1 assumptions.
